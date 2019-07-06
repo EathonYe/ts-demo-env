@@ -1,8 +1,8 @@
-# The environment to run typescript demo
+# This is an environment that runs ts demo
 
 ## Install
 ```
-$ npm i typescript -g
+$ npm install
 ```
 
 ## Usage
