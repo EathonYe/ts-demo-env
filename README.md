@@ -15,3 +15,7 @@ or
 $ npm run watch test.js
 // => watch and run ./dist/test.js
 ```
+
+## Suggestion
+搭配[sm-cli](https://github.com/EathonYe/sm-cli)，
+通过脚手架直接生成模板
