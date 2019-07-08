@@ -19,3 +19,8 @@ $ npm run watch test.js
 ## Suggestion
 搭配[sm-cli](https://github.com/EathonYe/sm-cli)，
 通过脚手架直接生成模板
+
+如果需要结合html文件，建议使用`parcel`:
+```
+$ npx parcel index.html
+```
